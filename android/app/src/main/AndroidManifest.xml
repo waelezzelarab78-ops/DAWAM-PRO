@@ -2,12 +2,12 @@
     <application
         android:label="DAWAM PRO"
         android:name="${applicationName}"
-        android:icon="@android:drawable/sym_def_app_icon"
-        
+        android:icon="@android:drawable/sym_def_app_icon">
+
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
-            
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
